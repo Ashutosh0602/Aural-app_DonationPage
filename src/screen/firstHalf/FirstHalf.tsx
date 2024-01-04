@@ -21,7 +21,7 @@ function FirstHalf() {
               <div>
                 <button
                   type="button"
-                  className="bg-[#f00a0a] text-white m-1 p-4 rounded-full"
+                  className="bg-[#f00a0a] font-bold text-white m-1 p-4 rounded-full"
                 >
                   Donate Now
                 </button>
