@@ -5,8 +5,6 @@ import CochlearImplants from "./CochlearImplants";
 import CashDonation from "./CashDonation";
 
 function SecondHalf() {
-  const form = useForm();
-
   return (
     <section>
       <div>
