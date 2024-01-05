@@ -26,8 +26,8 @@ const IntroSection = () => {
         {/* <div className="hidden lg:block"> */}
 
         <div className="relative hidden justify-center items-center lg:flex">
-          <div className="absolute left-[13%]  h-[80%] w-[35%] rounded-full border-8 border-[#09092e] bg-[url('https://media.istockphoto.com/id/1386470970/photo/mother-helping-her-son-with-his-hearing-aid.jpg?s=1024x1024&w=is&k=20&c=icEdCKZiyl0QO-rpVDA2zlDmCFrKQET0RMsD8H7QN3c=')] bg-cover bg-center"></div>
-          <div className="absolute right-[12%] bottom- 0 h-full w-[45%] rounded-full border-4 border-[#09092e] bg-[url('https://media.istockphoto.com/id/525972446/photo/family-cooking-together.jpg?s=1024x1024&w=is&k=20&c=l49UlTxJbq4Ppc9W2c-OGrVXdwQZuDtnOpu_bsBm8a0=')] bg-cover bg-center"></div>
+          <div className="absolute left-[13%]  h-[15rem] w-[15rem] rounded-full border-8 border-[#09092e] bg-[url('https://media.istockphoto.com/id/1386470970/photo/mother-helping-her-son-with-his-hearing-aid.jpg?s=1024x1024&w=is&k=20&c=icEdCKZiyl0QO-rpVDA2zlDmCFrKQET0RMsD8H7QN3c=')] bg-cover bg-center"></div>
+          <div className="absolute right-[12%] h-full md:h-[18rem] w-[18rem] rounded-full border-4 border-[#09092e] bg-[url('https://media.istockphoto.com/id/525972446/photo/family-cooking-together.jpg?s=1024x1024&w=is&k=20&c=l49UlTxJbq4Ppc9W2c-OGrVXdwQZuDtnOpu_bsBm8a0=')] bg-cover bg-center"></div>
         </div>
         {/* </div> */}
 
