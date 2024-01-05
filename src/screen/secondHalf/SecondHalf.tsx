@@ -1,5 +1,4 @@
 import { Avatar, AvatarFallback, AvatarImage } from "@/components/ui/avatar";
-import { useForm } from "react-hook-form";
 import HearingAids from "./HearingAids";
 import CochlearImplants from "./CochlearImplants";
 import CashDonation from "./CashDonation";
